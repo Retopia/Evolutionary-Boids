@@ -1,7 +1,7 @@
 # Evolutionary-Boids
 ![Project View ](https://i.imgur.com/T1bRKV5.png)
 This is my first major project in Python and was inspired by the work of Professor Daniel Shiffman.
-The graphics of this project is done with PyGame, and the UI elements are done using PyGame-Widgets
+The graphics of this project is done with Pygame, and the UI elements are done using Pygame-Widgets
 
 ## Project Explanation
 
@@ -21,7 +21,7 @@ The debug function of the program draws 3 circles, with the green representing t
 I might come back to this project in the future to make all of the DNA ranges and values customizable.
 
 ## Installing the Required Dependencies (Requires Python 3):
-`pip install pygame`
+`pip install pygame` and
 `pip install pygame-widgets`
 
 
