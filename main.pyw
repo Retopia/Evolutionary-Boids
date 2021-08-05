@@ -2,7 +2,9 @@ import sys
 import random
 import pygame as pg
 import pygame.gfxdraw
-from pygame_widgets import Slider, TextBox, Toggle
+from pygame_widgets.toggle import Toggle
+from pygame_widgets.textbox import TextBox
+from pygame_widgets.slider import Slider
 
 from boid import Boid
 from edible import Edible
