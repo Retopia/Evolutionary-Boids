@@ -23,8 +23,7 @@ The debug function of the program draws 3 circles, with the green representing t
 I might come back to this project in the future to make all of the DNA ranges and values customizable.
 
 ## Installing the Required Dependencies (Requires Python 3):
-`pip install pygame` and
-`pip install pygame_gui`
-
+`pip install pygame`  
+`pip install pygame_gui`  
 
 To run the program, simply download the project files into a folder after installing the required dependencies and open "main.pyw".
