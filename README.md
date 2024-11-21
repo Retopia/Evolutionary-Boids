@@ -26,4 +26,5 @@ I might come back to this project in the future to make all of the DNA ranges an
 `pip install pygame`  
 `pip install pygame_gui`  
 
-To run the program, simply download the project files into a folder after installing the required dependencies and open "main.pyw".
+To run the program, simply download the project files into a folder after installing the required dependencies.
+Then run `python main.py`
